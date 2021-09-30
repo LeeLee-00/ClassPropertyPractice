@@ -1,0 +1,12 @@
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.vbprojAssemblyReference.cache
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.Form1.resources
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.Resources.resources
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.vbproj.GenerateResource.cache
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.vbproj.CoreCompileInputs.cache
+C:\Users\LeeNoel\source\repos\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\LeeNoel\source\repos\MyClass\bin\Debug\MyClass.exe
+C:\Users\LeeNoel\source\repos\MyClass\bin\Debug\MyClass.pdb
+C:\Users\LeeNoel\source\repos\MyClass\bin\Debug\MyClass.xml
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.exe
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.xml
+C:\Users\LeeNoel\source\repos\MyClass\obj\Debug\MyClass.pdb
